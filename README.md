@@ -118,7 +118,7 @@ Monitor high-risk customer segments using churn indicators
 
 📂 Repository Contents
 
-SaaS_Churn_Dashboard.pbix – Power BI dashboard file
+Task 2.pbix – Power BI dashboard file
 
 dataset.csv – Raw dataset
 
